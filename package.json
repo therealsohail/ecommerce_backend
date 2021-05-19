@@ -10,9 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1"
-  },
-  "devDependencies": {
+    "express": "^4.17.1",
     "stripe": "^8.129.0"
+  },
+  "engines": {
+    "node": "14.15.4"
   }
 }
